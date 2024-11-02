@@ -4,11 +4,9 @@
 
 Here are some ideas to get you started:-->
 
-- 🔭 I’m currently working on a course project website called "Delleni".
-- 🌱 I’m currently learning web engineering.
-- 🤔 I’m looking for help with cybersecurity.
+- 🔭 I'v worked on a course project website called "Dalleni".
+- 🤔 I’m actively learning and practicing cybersecurity.
+- 🌱 I’m currently working on a project for Gaming+.
 - 💬 Ask me about KFUPM.
-<!-- -👯 I’m looking to collaborate on ...
--📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ... -->
+- 🤝 I’m looking to collaborate on CTFs.
+- 📫 How to reach me: Hamad.ib.sadran@gmail.com
