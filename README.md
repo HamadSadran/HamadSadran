@@ -4,9 +4,9 @@
 
 Here are some ideas to get you started:-->
 
-- 🔭 I'v worked on a course project website called "Dalleni".
-- 🤔 I’m actively learning and practicing cybersecurity.
-- 🌱 I’m currently working on a project for Gaming+.
+- 🔭 I've worked on a course project website "Dalleni".
+- 🤔 I’m actively learning and practicing cybersecurity - focused on SOC.
+- 🌱 I’m currently working on a Flutter project "ModelView"
 - 💬 Ask me about KFUPM.
 - 🤝 I’m looking to collaborate on CTFs.
 - 📫 How to reach me: Hamad.ib.sadran@gmail.com
